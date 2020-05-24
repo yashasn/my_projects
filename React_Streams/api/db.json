@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "description": "This is my first  stream",
+      "title": "First ",
+      "id": 2,
+      "userId": "113811102488285059298"
+    },
+    {
+      "title": "second stream",
+      "description": "this is second stream",
+      "userId": "112783196890708182991",
+      "id": 3
+    },
+    {
+      "title": "This is different user's stream",
+      "description": "bmsce stream",
+      "userId": "112783196890708182991",
+      "id": 6
+    },
+    {
+      "title": "3rd",
+      "description": "This is 3rd stream",
+      "id": 7,
+      "userId": "113811102488285059298"
+    }
+  ]
+}
