@@ -18,7 +18,7 @@ class App extends React.Component{
                 part:'snippet',
                 type:'video',
                  maxResults: 10,
-                key:'AIzaSyALpiUsMLZDw8JsJiu2X6X6NNxrpY8bQZk',
+                key:'',
                 q:term
             }
         });
